@@ -11,7 +11,7 @@ React Version : 17.0.2
 
 ### `How to running on Android`
 
--git clone
+-git clone ```https://github.com/galaxiarmy/kitani-mobile-app.git```
 
 -npm install
 
